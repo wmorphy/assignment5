@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Cat1</key>
+		<string>Cute Cat</string>
+		<key>Cat2</key>
+		<string>Funny Cat</string>
+		<key>Cat3</key>
+		<string>Silly Cat</string>
+	</dict>
+	<dict>
+		<key>Dog1</key>
+		<string>Funny Dog</string>
+		<key>Dog2</key>
+		<string>Cute Dog</string>
+		<key>Dog3</key>
+		<string>Silly Dog</string>
+	</dict>
+	<dict>
+		<key>Crocodile1</key>
+		<string>funny Crock</string>
+		<key>Crocodile2</key>
+		<string>Silly Crock</string>
+		<key>Crocodile3</key>
+		<string>Cute Crock</string>
+	</dict>
+	<dict>
+		<key>Bat1</key>
+		<string>Cute Bat</string>
+		<key>Bat2</key>
+		<string>Funny Bat</string>
+		<key>Bat3</key>
+		<string>Silly Bat</string>
+	</dict>
+</array>
+</plist>
